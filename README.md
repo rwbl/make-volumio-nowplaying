@@ -3,9 +3,9 @@
 * To show on an LCD display, the current played song information Title, Artist, Album, Duration by Volumio (http://www.volumio.org/).
 * This Make project is a prototype - building a final solution with a hardware case not planned (yet).
 
-img:volumionowplaying-p.png
+![volumionowplaying-p](https://user-images.githubusercontent.com/47274144/52941292-b6eb4c80-3368-11e9-82fe-24bb5baf4868.png)
 
-img:volumionowplaying-ui2.png
+![volumionowplaying-a](https://user-images.githubusercontent.com/47274144/52941291-b6eb4c80-3368-11e9-8ede-d3680569ec95.png)
 
 ## Functionality
 Rasberry Pi NowPlaying Program [B4J Non-UI]:
@@ -30,6 +30,7 @@ Min software versions required:
 LCD display controlled by B4J Library jLCD_I2C which is converted from https://www.b4x.com/android/forum/threads/raspberry-b4j-i2c-hd44780-lcd-driver.61123/ classes (a BIG thanks to the author for developing).
 
 ## Wiring
+![volumionowplaying_bb](https://user-images.githubusercontent.com/47274144/52941289-b652b600-3368-11e9-88bf-78a0b6c04a6c.png)
 ```
 LCD 2004a = Raspberry Pi (WireColors)
 VCC = 5v (red)
@@ -37,9 +38,6 @@ GND = GND (black)
 SDA = Pin 3 - SDA (blue)
 SCL = Pin 5 - SCL (green)
 ```
-
-img:volumionowplaying_bb.png
-
 ## Additional Information
 To get started follow the Volumio information.
 Download the Volumio Raspberry Pi image from here, create the image, place in the RPi and boot.
