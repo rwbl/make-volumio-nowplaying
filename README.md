@@ -141,4 +141,5 @@ The information returned contains Tags from which Artist, Title, Album, Time are
 These tags are stored into a map from which the tags are obtained via RequestSongMap.Get("Title") etc.
 A small Windows application, written with B4J, to test MPD commands is included (with some example commands).
 
-
+## Soure Code
+The source code and required libraries can be found in archive __nowplaying.zip__. The code is well documented.
