@@ -64,6 +64,8 @@ Example installing Java 1.8.0_121 on the Raspberry Pi:
 * javac -version
 * Delete the downloaded tar file
 
+The application has been created for **personal use**  only. If planned for commercial use, ensure to comply to the [Oracle JDK License Agreement](https://www.oracle.com/technetwork/java/javase/terms/license/javase-license.html). 
+
 ### B4J Non-UI Application NowPlaying
 Note: Recommend to read the various documented source codes for more details.
 
