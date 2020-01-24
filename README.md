@@ -1,7 +1,8 @@
-# make_project_nowplaying
+# make_nowplaying
+
 # Objectives
-* To show on an LCD display, the current played song information Title, Artist, Album, Duration by Volumio (http://www.volumio.org/).
-* This Make project is a prototype - building a final solution with a hardware case not planned (yet).
+To show on an LCD 20x4 display, the [Volumio](http://www.volumio.org/) played song information Title, Artist, Album, Duration.
+This make project is a prototype - building a final solution with a hardware case not planned (yet).
 
 ![volumionowplaying-p](https://user-images.githubusercontent.com/47274144/52941292-b6eb4c80-3368-11e9-82fe-24bb5baf4868.png)
 
