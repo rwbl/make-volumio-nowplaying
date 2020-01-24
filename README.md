@@ -1,4 +1,4 @@
-# make_nowplaying
+# make-volumio-nowplaying
 
 # Objectives
 To show on an LCD 20x4 display, the [Volumio](http://www.volumio.org/) played song information Title, Artist, Album, Duration.
